@@ -3,9 +3,13 @@
 
 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 [2,27,16,22,18,6] --> 2 ile 22 yer değiştirir.
+
 [2,6,16,22,18,27] --> 6 ile 27 yer değiştirir.
+
 [2,6,16,22,18,27] --> Üç sayı sıralı olduğu için yer değiştirmez.
+
 [2,6,16,18,22,27] --> 18 ile 22 yer değiştirir.
+
 [2,6,16,18,22,27] --> 6. eleman yer değiştirmez dizi sıralıdır.
 
 2. Big-O gösterimini yazınız.
